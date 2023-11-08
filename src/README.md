@@ -1,2 +1,2 @@
 # shell_script
-shell script lab
+shell script file
